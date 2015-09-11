@@ -1,3 +1,4 @@
 Da primeira a quarta carta, nesta ordem:
 Compare-a com cada carta à sua direita, trocando quando necessário para manter a menor à esquerda.
 Vença.
+Comemore com bons amigos.
